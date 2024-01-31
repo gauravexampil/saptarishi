@@ -596,7 +596,7 @@ strong {
 }
 
 #hero-slide .carousel-item {
-  height: 680px;
+  height: 580px;
 /*  min-height: 680px;*/
 }
 
@@ -808,8 +808,68 @@ strong {
 /*---------------------------------------
   NEWS         
 -----------------------------------------*/
-.news-detail-header-section {
+.news-detail-header-section1 {
   background-image: url('../images/slide/banner1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.news-detail-header-section2 {
+  background-image: url('../images/slide/banner4.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.news-detail-header-section3 {
+  background-image: url('../images/slide/banner.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.news-detail-header-section4 {
+  background-image: url('../images/slide/banner2.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.news-detail-header-section5 {
+  background-image: url('../images/slide/banner7.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.news-detail-header-section6 {
+  background-image: url('../images/slide/banner5.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.news-detail-header-section7 {
+  background-image: url('../images/slide/banner6.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
